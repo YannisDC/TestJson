@@ -1,0 +1,194 @@
+[{
+    "title": "Up in flames",
+    "question": "What item would you save if your house burned down?",
+    "category": "general",
+    "uuid": "50F576C6-51BB-44F3-BA07-75AE5541F9BD"
+  },
+  {
+    "title": "Friendship",
+    "question": "What does friendship mean to you?",
+    "category": "general",
+    "uuid": "5C7453C6-BCD1-482E-AFF8-761CEC59B4E7"
+  },
+  {
+    "title": "Thank you",
+    "question": "If you died tonight, who would you still want to thank and what for?",
+    "category": "general",
+    "uuid": "27E8B392-2317-4B32-8862-CBCB9D8A39D6"
+  },
+  {
+    "title": "Gratitude",
+    "question": "What are you most grateful for?",
+    "category": "general",
+    "uuid": "09B0558C-0357-44C0-9F64-2A8C1FD60171"
+  },
+  {
+    "title": "Sharky",
+    "question": "Is money the root of all evil?",
+    "category": "general",
+    "uuid": "9FA6788D-2AC4-4BE7-AC06-CCA2647D4BD2"
+  },
+  {
+    "title": "Desire",
+    "question": "What do you desire most right now?",
+    "category": "general",
+    "uuid": "93EB0A49-CAA5-4801-8E9B-FB8AF150A240"
+  },
+  {
+    "title": "Why I'm here",
+    "question": "Do you have a purpose in life? What is it?",
+    "category": "general",
+    "uuid": "F35F7299-53A7-4439-BE23-0AACE949C76E"
+  },
+  {
+    "title": "Pink cloud",
+    "question": "Have you ever truly been in love?",
+    "category": "general",
+    "uuid": "DF5E03E2-2EA6-4457-ADC8-4E1165FBE126"
+  },
+  {
+    "title": "Family",
+    "question": "How close are you to your family?",
+    "category": "general",
+    "uuid": "679BB871-65CF-49CA-9ACC-1C1E0F56887B"
+  },
+  {
+    "title": "Under the bed",
+    "question": "What are your biggest fears?",
+    "category": "general",
+    "uuid": "A0F2BDCB-CC27-4E50-A00E-C5F876509386"
+  },
+  {
+    "title": "Young and foolish",
+    "question": "Which childhood dreams are you not ready to give up on yet?",
+    "category": "general",
+    "uuid": "83EBA382-A723-4DC5-AD73-5C2033310BDE"
+  },
+  {
+    "title": "Second chance",
+    "question": "What do you most regret not having done?",
+    "category": "general",
+    "uuid": "87684B65-8DCA-43A9-B3EE-CADCBB0DCEA2"
+  },
+
+  {
+    "title": "All in",
+    "question": "What are you committed to?",
+    "category": "love",
+    "uuid": "D486C334-A63D-4667-AD26-C49C7EA5F380"
+  },
+  {
+    "title": "The L word",
+    "question": "How do you experience love in a relationship?",
+    "category": "love",
+    "uuid": "4227DAD8-849A-4DA3-8F18-C910DA700530"
+  },
+  {
+    "title": "Switch",
+    "question": "What turns you on?",
+    "category": "love",
+    "uuid": "EBC6E432-7CD7-4098-84A0-AF22A2471CF0"
+  },
+  {
+    "title": "Sky high",
+    "question": "What are the happiest moments in your life?",
+    "category": "love",
+    "uuid": "BBF506CF-213C-4BAF-B773-128DDDB370E7"
+  },
+  {
+    "title": "Down low",
+    "question": "What are the most depressing moments in your life?",
+    "category": "love",
+    "uuid": "F96A06EE-C873-4785-9C7F-5B7FE1E87785"
+  },
+  {
+    "title": "Perfect",
+    "question": "What is in your opinion the ideal relationship?",
+    "category": "love",
+    "uuid": "4940F95F-3CA5-4A5F-8266-8F5F29CC490D"
+  },
+  {
+    "title": "Rings and fingers",
+    "question": "What is your opinion about marriage?",
+    "category": "love",
+    "uuid": "1F67B3CD-A458-4043-9708-6ADB4DBD3276"
+  },
+  {
+    "title": "Resolutions",
+    "question": "What do you want to achieve this year?",
+    "category": "love",
+    "uuid": "E4401C2B-4074-45A5-930F-AEB09B9FD0CC"
+  },
+  {
+    "title": "Landing",
+    "question": "When do you think you will settle down?",
+    "category": "love",
+    "uuid": "017FABBC-67EB-4D5C-BEBB-8AD2C2EAC851"
+  },
+  {
+    "title": "Swoop",
+    "question": "In which way can someone immediately win you over?",
+    "category": "love",
+    "uuid": "18941A03-A0EE-492E-BD29-07A585E1D538"
+  },
+  {
+    "title": "Singularity",
+    "question": "How do you feel about computers becoming smarter than humans?",
+    "category": "technology",
+    "uuid": "83E60D41-7C12-4C23-ABD6-CF5187F671D1"
+  },
+  {
+    "title": "Alone",
+    "question": "Do you think we are the only life in our universe?",
+    "category": "technology",
+    "uuid": "E828E492-DFC0-43FC-9303-7EE2A2DC6F2D"
+  },
+  {
+    "title": "Deus ex machina",
+    "question": "What's the relation between science and religion?",
+    "category": "technology",
+    "uuid": "A508D1CF-6E50-4DD7-83F2-B4DEF361524E"
+  },
+  {
+    "title": "Void",
+    "question": "Does the vastness of our universe scare you?",
+    "category": "technology",
+    "uuid": "D81A19BB-501B-4B7C-A9DB-95B2BD6B292B"
+  },
+  {
+    "title": "Methusalem",
+    "question": "Would you want to live forever? Why or why not?",
+    "category": "technology",
+    "uuid": "FEB87D0E-3DD4-4B1E-80D1-267AFCED34FD"
+  },
+  {
+    "title": "Worm hole",
+    "question": "To what time would you wish to travel and why?",
+    "category": "technology",
+    "uuid": "177496F8-8BCD-4D84-9F85-87E0CDC58377"
+  },
+  {
+    "title": "CRISPR",
+    "question": "What do you think about designer babies?",
+    "category": "technology",
+    "uuid": "1095B7CF-0DFE-40DB-8B76-78066BCAA59C"
+  },
+  {
+    "title": "Brainsauce",
+    "question": "Would you rather be intelligent or wise?",
+    "category": "technology",
+    "uuid": "C263C8F3-A944-4C22-9D5E-C81D70506FA2"
+  },
+  {
+    "title": "Darwin",
+    "question": "Is it okay to alter evolution?",
+    "category": "technology",
+    "uuid": "42D04858-6B2F-4AAD-A217-A50059500272"
+  },
+  {
+    "title": "Future Tech",
+    "question": "Which future tech do you wish already existed?",
+    "category": "technology",
+    "uuid": "C03A28B3-0AB3-47FD-ACD7-3A40E2A3DDC4"
+  }
+]
