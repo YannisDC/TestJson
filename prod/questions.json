@@ -130,5 +130,65 @@
     "question": "In which way can someone immediately win you over?",
     "category": "love",
     "uuid": "18941A03-A0EE-492E-BD29-07A585E1D538"
+  },
+  {
+    "title": "Singularity",
+    "question": "How do you feel about computers becoming smarter than humans?",
+    "category": "technology",
+    "uuid": "83E60D41-7C12-4C23-ABD6-CF5187F671D1"
+  },
+  {
+    "title": "Alone",
+    "question": "Do you think we are the only life in our universe?",
+    "category": "technology",
+    "uuid": "E828E492-DFC0-43FC-9303-7EE2A2DC6F2D"
+  },
+  {
+    "title": "Deus ex machina",
+    "question": "What's the relation between science and religion?",
+    "category": "technology",
+    "uuid": "A508D1CF-6E50-4DD7-83F2-B4DEF361524E"
+  },
+  {
+    "title": "Void",
+    "question": "Does the vastness of our universe scare you?",
+    "category": "technology",
+    "uuid": "D81A19BB-501B-4B7C-A9DB-95B2BD6B292B"
+  },
+  {
+    "title": "Methusalem",
+    "question": "Would you want to live forever? Why or why not?",
+    "category": "technology",
+    "uuid": "FEB87D0E-3DD4-4B1E-80D1-267AFCED34FD"
+  },
+  {
+    "title": "Worm hole",
+    "question": "To what time would you wish to travel and why?",
+    "category": "technology",
+    "uuid": "177496F8-8BCD-4D84-9F85-87E0CDC58377"
+  },
+  {
+    "title": "CRISPR",
+    "question": "What do you think about designer babies?",
+    "category": "technology",
+    "uuid": "1095B7CF-0DFE-40DB-8B76-78066BCAA59C"
+  },
+  {
+    "title": "Brainsauce",
+    "question": "Would you rather be intelligent or wise?",
+    "category": "technology",
+    "uuid": "C263C8F3-A944-4C22-9D5E-C81D70506FA2"
+  },
+  {
+    "title": "Darwin",
+    "question": "Is it okay to alter evolution?",
+    "category": "technology",
+    "uuid": "42D04858-6B2F-4AAD-A217-A50059500272"
+  },
+  {
+    "title": "Future Tech",
+    "question": "Which future tech do you wish already existed?",
+    "category": "technology",
+    "uuid": "C03A28B3-0AB3-47FD-ACD7-3A40E2A3DDC4"
   }
 ]
